@@ -38,17 +38,17 @@ namespace SnakeOOP
             pList.Add(p1);
             pList.Add(p2);
 
-            List<Point> tmpList = new List<Point>();
+            //List<Point> tmpList = new List<Point>();
             
-            for (int i = 0; i < 50; i++)
-            {
-                tmpList.Add(i);
-            }
+            //for (int i = 0; i < 50; i++)
+            //{
+            //    tmpList.Add(i);
+            //}
 
-            foreach (int i in tmpList)
-            {
-                Console.WriteLine(i);
-            }
+            //foreach (int i in tmpList)
+            //{
+            //    Console.WriteLine(i);
+            //}
 
             Console.ReadLine();
         }
